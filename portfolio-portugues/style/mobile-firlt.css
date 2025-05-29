@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+div#head-profile {
+    
+    max-width: 800px;
+    height: 320px;
+    
+}
+
+img.profile-photo {
+    margin-top: 0px;
+    width: 140px;
+    height: 180px;
+    
+}
+
+div.header-information {
+    h1 {
+        font-family: 'font-tech';
+        color: white;
+        font-weight: 500;
+        font-size: 27px;
+        text-shadow: 5px 2px 5px; ;
+    }
+}
+
+section.profile-photo-section{
+    flex-direction: column;
+}
+
+section.list {
+    li {
+        padding-block: 20px;
+        
+ }
+
+    a {
+        font-size: 14px;
+ }
+}
+
+section.list {
+    a {
+        font-size: 13px;
+    }
+}
+
+section.contatos {
+    
+    img {
+        width: 20px;
+        
+    }
+    li {
+        font-size: 15px;
+    ;
+    }
+}
+
+div.projetos-exemplo {
+    ul img {
+        width: 180px;
+    }
+}
+
+footer {
+    
+    ul {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    ul img {
+        width: 40px;
+    }
+}
+

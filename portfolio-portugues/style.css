@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@import url(style/style-portugues.css);
+@import url(style/header.css);
+
+@font-face {
+    font-family: 'font-tech';
+    src: url(font/TeknafRegular-rv0aB.otf) format(Opentype);
+}
