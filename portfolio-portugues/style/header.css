@@ -35,7 +35,7 @@ div.header-information {
         font-weight: 500;
         font-size: 32px;
         text-shadow: 5px 2px 5px; ;
-        margin-right: 10px;
+        margin-inline: 5px;
     }
 }
 
