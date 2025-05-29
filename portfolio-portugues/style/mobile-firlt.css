@@ -40,8 +40,17 @@ section.list {
 }
 
 section.list {
+    ul {
+        
+        gap: 5px;
+        padding: 5px;
+    }
     a {
+        padding: 7px;
         font-size: 13px;
+    }
+    a:hover {
+        padding: 7px;
     }
 }
 
