@@ -42,15 +42,15 @@ section.list {
 section.list {
     ul {
         
-        gap: 5px;
-        padding: 5px;
+        gap: 0px;
+        padding: 0px;
     }
     a {
-        padding: 7px;
+        padding: 5px;
         font-size: 13px;
     }
     a:hover {
-        padding: 7px;
+        padding: 5px;
     }
 }
 
