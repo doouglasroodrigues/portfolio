@@ -105,6 +105,27 @@ div.projetos-exemplo {
         flex-wrap: wrap;
         justify-content: space-around;
         gap: 20px;
+
+        li {
+            display: flex;
+            flex-direction: column;
+            flex-wrap: nowrap;
+            align-items: center;
+            gap: 10px;
+
+            a {
+                text-decoration: none;
+                color: white;
+            }
+
+            a:hover {
+                color: blue;
+            }
+
+            a:active {
+                color: rgb(115, 115, 221);
+            }
+        }
     }
     ul img {
         width: 240px;
