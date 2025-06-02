@@ -31,13 +31,13 @@ section.profile-photo-section{
 
 section.list {
     li {
-        padding-block: 20px;
-        
+        padding-block: 15px;
+
+        a {
+        font-size: 12px;
+        }
  }
 
-    a {
-        font-size:px;
- }
 }
 
 section.list {
