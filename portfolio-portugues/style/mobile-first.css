@@ -28,6 +28,7 @@ section.profile-photo-section{
     flex-direction: column;
 }
 
+
 section.list {
     li {
         padding-block: 20px;
@@ -35,7 +36,7 @@ section.list {
  }
 
     a {
-        font-size: 14px;
+        font-size:px;
  }
 }
 
@@ -47,7 +48,7 @@ section.list {
     }
     a {
         padding: 5px;
-        font-size: 13px;
+        font-size: 15px;
     }
     a:hover {
         padding: 5px;
@@ -62,14 +63,17 @@ section.contatos {
     }
     li {
         font-size: 15px;
-    ;
+
     }
 }
+
 
 div.projetos-exemplo {
     ul img {
         width: 180px;
     }
+
+    
 }
 
 
